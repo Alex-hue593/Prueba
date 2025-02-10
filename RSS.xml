@@ -5,9 +5,10 @@
         <link>https://github.com/Alex-hue593/Prueba.git</link>
         <description>Prueba de RSS</description>
     </channel>
-    <item>
-        <title>html Pelotas</title>
-        <link>index.html</link>
-        <description>Prueba de RSS</description>
-    </item>
+        <item>
+            <title>html Pelotas</title>
+            <link>index.html</link>
+            <description>Prueba de RSS</description>
+        </item>
+    </channel>
 </rss>
