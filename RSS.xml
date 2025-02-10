@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <chanel>
+        <title>Prueba de RSS</title>
+        <link>https://github.com/Alex-hue593/Prueba.git</link>
+        <description>Prueba de RSS</description>
+    </chanel>
+    <item>
+        <title>Prueba de RSS</title>
+        <link>Trabajo_html/HTML</link>
+        <description>Prueba de RSS</description>
+    </item>
+</rss>
