@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-    <channel>
-        
+    <channel> 
         <title>Prueba de RSS</title>
         <link>https://github.com/Alex-hue593/Prueba.git</link>
         <description>Prueba de RSS</description>
         <item>
             <title>html Pelotas</title>
-            <link>index.html</link>
+            <link>https://github.com/Alex-hue593/Prueba.git</link>
             <description>Prueba de html</description>
         </item>
     </channel>
