@@ -2,12 +2,12 @@
 <rss version="2.0">
     <chanel>
         <title>Prueba de RSS</title>
-        <link>https://github.com/Alex-hue593/Prueba.git</link>
+        <link>https://alex-hue593.github.io/</link>
         <description>Prueba de RSS</description>
     </chanel>
     <item>
         <title>html Pelotas</title>
-        <link>index.html</link>
+        <link>https://alex-hue593.github.io/</link>
         <description>Prueba de RSS</description>
     </item>
 </rss>
