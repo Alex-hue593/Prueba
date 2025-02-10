@@ -6,8 +6,8 @@
         <description>Prueba de RSS</description>
     </chanel>
     <item>
-        <title>Prueba de RSS</title>
-        <link>Trabajo_html/HTML</link>
+        <title>html Pelotas</title>
+        <link>index.html</link>
         <description>Prueba de RSS</description>
     </item>
 </rss>
